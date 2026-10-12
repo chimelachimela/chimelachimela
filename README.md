@@ -25,7 +25,6 @@ Transport infrastructure for African cities, starting in Port Harcourt. Sabigo i
 
 ## Selected projects
 
-- [CampusNav](https://github.com/chimelachimela/CampusNav) — campus-specific navigation with student context and community insights
 - [Sabigo](https://chimelachimela.com/projects/sabigo) — transport knowledge and mobility infrastructure for African cities
 - [NeetCode submissions](https://github.com/chimelachimela/neetcode-submissions) — ongoing problem-solving practice
 
