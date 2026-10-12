@@ -1,48 +1,39 @@
-# hello, i'm chimela chimela 👋
+# Hi, I'm Chimela Chimela 👋
 
-**product & software engineer | ce major**
+**Software engineer building useful technology at the intersection of product, research, and business.**
 
----
+[Visit my website →](https://chimelachimela.com)
 
-### 🚀 about me
+I build software, products, and ventures that solve meaningful problems—from practical developer tools and digital products to infrastructure for how people move through cities.
 
-i love building software products that solve real problems.
-i'm a passionate and always eager to explore and understand the technology powering our world. i love learning new things and diving into the “how” and “why” behind the scenes.  
+## What I'm building
 
-i'm a ce major exploring:
+### [Sabigo](https://chimelachimela.com/projects/sabigo)
 
-- **innovation & r&d** → rapid prototyping, user-driven iteration, and emerging tech
+Transport infrastructure for African cities, starting in Port Harcourt. Sabigo is building a transport knowledge and mobility network that helps people navigate unfamiliar journeys and helps organizations and transportation providers plan, coordinate, and provide movement.
 
----
+## Current work
 
-### 🛠️ tech stack
+- **Product Developer** at [Cinfores Limited](https://chimelachimela.com/experience)
+- **Head of Research & Development** at [Mexuri](https://chimelachimela.com/experience)
 
-- **languages:** kotlin, javascript, python
-- **frameworks:** jetpack compose, next.js, django
-- always exploring new tools and ideas
+## Tools I work with
 
----
+- **Languages:** Kotlin, JavaScript, Python
+- **Frameworks:** Jetpack Compose, Next.js, Django
+- **Interests:** product development, research and development, rapid prototyping, user-driven iteration, and emerging technology
 
-### 🌟 featured project
+## Selected projects
 
-[hotel management system](https://github.com/chimela-mc/hotel-management-system)  
-> a full-featured system to streamline hospitality operations and explore scalable application development.
+- [CampusNav](https://github.com/chimelachimela/CampusNav) — campus-specific navigation with student context and community insights
+- [Sabigo](https://chimelachimela.com/projects/sabigo) — transport knowledge and mobility infrastructure for African cities
+- [NeetCode submissions](https://github.com/chimelachimela/neetcode-submissions) — ongoing problem-solving practice
 
----
+## Connect
 
-### 📫 connect with me
+- [Website](https://chimelachimela.com)
+- [LinkedIn](https://www.linkedin.com/in/chimela-mc)
+- [X / Twitter](https://x.com/chimela_mc)
+- [Newsletter](https://chimelachimela.substack.com)
 
-- [linkedin](https://www.linkedin.com/in/chimela-mc)  
-- [twitter/x](https://x.com/chimela_mc)
-
----
-
-### ✨ fun fact
-
-i’m always on a quest to understand what happens “under the hood” of the tools and frameworks we use every day!
-
----
-
-<!--
-**chimela-mc/chimela-mc** is a ✨ special ✨ repository because its `readme.md` (this file) appears on your github profile.
--->
+> I’m always trying to understand what happens under the hood—and turn that understanding into useful technology.
