@@ -31,8 +31,8 @@ Transport infrastructure for African cities, starting in Port Harcourt. Sabigo i
 ## Connect
 
 - [Website](https://chimelachimela.com)
-- [LinkedIn](https://www.linkedin.com/in/chimela-mc)
-- [X / Twitter](https://x.com/chimela_mc)
+- [LinkedIn](https://www.linkedin.com/in/chimelamchimela)
+- [X / Twitter](https://x.com/chimelamchimela)
 - [Newsletter](https://chimelachimela.substack.com)
 
 > I’m always trying to understand what happens under the hood—and turn that understanding into useful technology.
