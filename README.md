@@ -14,7 +14,7 @@ Transport infrastructure for African cities, starting in Port Harcourt. Sabigo i
 
 ## Current work
 
-- **Product Developer** at [Cinfores Limited](https://chimelachimela.com/experience)
+- **Software Engineer** at [Cinfores Limited](https://chimelachimela.com/experience)
 - **Head of Research & Development** at [Mexuri](https://chimelachimela.com/experience)
 
 ## Tools I work with
